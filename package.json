@@ -1,0 +1,14 @@
+{
+  "name": "hello-fail",
+  "version": "1.0.0",
+  "description": "Recreate issue detecting WinRT libraries on Windows 10",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bitwarden, Inc.",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@nodert-win10-rs4/windows.security.credentials.ui": "^0.4.4"
+  }
+}
